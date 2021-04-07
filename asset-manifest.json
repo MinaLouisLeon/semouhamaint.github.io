@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/semouha-maint/static/css/main.623ffa12.chunk.css",
+    "main.js": "/semouha-maint/static/js/main.493fdaee.chunk.js",
+    "main.js.map": "/semouha-maint/static/js/main.493fdaee.chunk.js.map",
+    "runtime-main.js": "/semouha-maint/static/js/runtime-main.fe3f72ce.js",
+    "runtime-main.js.map": "/semouha-maint/static/js/runtime-main.fe3f72ce.js.map",
+    "static/css/2.a9ce5a2f.chunk.css": "/semouha-maint/static/css/2.a9ce5a2f.chunk.css",
+    "static/js/2.a8c2f9af.chunk.js": "/semouha-maint/static/js/2.a8c2f9af.chunk.js",
+    "static/js/2.a8c2f9af.chunk.js.map": "/semouha-maint/static/js/2.a8c2f9af.chunk.js.map",
+    "static/js/3.eb23a71c.chunk.js": "/semouha-maint/static/js/3.eb23a71c.chunk.js",
+    "static/js/3.eb23a71c.chunk.js.map": "/semouha-maint/static/js/3.eb23a71c.chunk.js.map",
+    "index.html": "/semouha-maint/index.html",
+    "static/css/2.a9ce5a2f.chunk.css.map": "/semouha-maint/static/css/2.a9ce5a2f.chunk.css.map",
+    "static/css/main.623ffa12.chunk.css.map": "/semouha-maint/static/css/main.623ffa12.chunk.css.map",
+    "static/js/2.a8c2f9af.chunk.js.LICENSE.txt": "/semouha-maint/static/js/2.a8c2f9af.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/semouha-maint/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3f72ce.js",
+    "static/css/2.a9ce5a2f.chunk.css",
+    "static/js/2.a8c2f9af.chunk.js",
+    "static/css/main.623ffa12.chunk.css",
+    "static/js/main.493fdaee.chunk.js"
+  ]
+}
